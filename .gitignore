@@ -28,6 +28,11 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+#Integrated runtime
+runtime/
+Launch.bat
+
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
